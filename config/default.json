@@ -1,0 +1,6 @@
+{
+  // Customer module configs 
+  "express": {
+    "port": 3001
+  }
+}
